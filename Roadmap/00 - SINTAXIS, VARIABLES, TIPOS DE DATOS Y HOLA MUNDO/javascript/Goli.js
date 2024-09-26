@@ -20,7 +20,6 @@ lines
 // 3. Initialize a variable and a const (if supported)
 
 var x;
-let y;
 const y = 0;
 
 // 4. Initialize multiple variables to represent all primitive types supported
